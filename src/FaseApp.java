@@ -7,7 +7,6 @@ public class FaseApp {
 			System.out.println(nom[i]);
 		}
 
-
 	}
 
 }
